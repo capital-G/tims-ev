@@ -3,7 +3,7 @@ title = "Home"
 insert_anchor_links = "left"
 +++
 
-# TIMs e.V.
+![](/logo-black.svg)
 
 Kurz vor seinem vierzigsten Geburtstag verstarb unser Freund Tim, der bis dahin als selbstständiger Klangregisseur und Toningenieur gearbeitet hatte, in Folge einer schweren psychischen Krise an Suizid.
 Diese Situation war und ist für uns alle weiterhin kaum zu verstehen und ein tiefer Schock. Sein Schicksal hat uns als Verein jedoch zusammengebracht und den Wunsch erweckt, etwas zu tun.

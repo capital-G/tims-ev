@@ -16,3 +16,12 @@ theme = "catppuccin-mocha"
 
 [extra]
 # Put all your custom variables here
+
+default_theme = "light"
+#
+# Sets theme and browser theme color.
+# See https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta/name/theme-color
+accent_color = "#fff"
+# Ditto but for the dark theme.
+# If not set regular variant will be used.
+accent_color_dark = "#10486eff"
